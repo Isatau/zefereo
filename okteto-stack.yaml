@@ -1,4 +1,4 @@
-name: hikka
+name: zeferio
 services:
   worker:
     public: true
